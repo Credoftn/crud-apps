@@ -1,0 +1,21 @@
+.form_container {
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+Form {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#name {
+  margin-right: 20px;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
